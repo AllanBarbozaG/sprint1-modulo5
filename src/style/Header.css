@@ -1,0 +1,48 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 19rem;
+  display: flex;
+  text-align: center;
+}
+
+.backgroundColor {
+  width: 100%;
+  height: 60%;
+  background: #707070 ;
+  z-index: -1;
+  position: absolute;
+}
+
+.backgroundColorCut {
+  margin-top: 18.41rem;
+  width: 100%;
+  height: 100%;
+  background-color: white;
+  transform: skewY(5.3deg);
+  z-index: -1;
+  position: absolute
+}
+
+.descriptionDiv {
+  height: 50%;
+  margin-top: 2.6rem;
+}
+
+.descriptionFirstP {
+  font-size: 20px;
+  margin-bottom: 0.3rem;
+  color: white;
+}
+
+.descriptionH3 {
+  font-size: 40px;
+  margin-bottom: 1rem;
+  color: white;
+}
+
+.descriptionSecondP {
+  font-size: 14px;
+  color: white;
+}

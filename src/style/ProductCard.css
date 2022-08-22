@@ -1,0 +1,66 @@
+.productCardDiv {
+  display: flex;
+  flex-direction: column;
+  width: 21%;
+  margin-bottom: 2.6rem;
+  margin-right: 2.3rem;
+}
+
+.cardImg {
+  width: 100%;
+  height: 9.25rem;
+  top: 860px;
+  left: 527px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  opacity: 1;
+  align-self: center;
+}
+
+.productName {
+  font-size: 14px;
+  margin-top: 1rem;
+}
+
+.productDescription {
+  font-weight: normal;
+  margin-top: 0.7rem;
+}
+
+.productDescription {
+  font-size: 12px;
+}
+
+.productOldPrice {
+  font-size: 12px;
+  margin-top: 0.8rem;
+}
+
+.productCurrentPrice {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.productInstallment {
+  font-size: 12px;
+}
+
+p {
+  margin-top: 0.2rem;
+}
+
+.buyBtn {
+  width: 100%;
+  height: 2rem;
+  top: 230px;
+  left: 371px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 1px 6px #00000029;
+  border: 1px solid #707070;
+  border-radius: 4px;
+  opacity: 1;
+  font-size: 16px;
+  color: #888888;
+  margin-top: 0.7rem
+  
+}

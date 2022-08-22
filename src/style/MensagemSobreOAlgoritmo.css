@@ -1,0 +1,16 @@
+.mensagemDiv {
+  padding-top: 1rem;
+  width: 58%;
+}
+
+.mensagemH3 {  
+  font-size: 20px;
+  font-weight: normal;
+  color: #888888;
+}
+
+.mensagemP {
+  font-size: 12px;
+  line-height: 1.2rem;
+  color: #888888;
+}
