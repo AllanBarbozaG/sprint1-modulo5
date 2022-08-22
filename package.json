@@ -2,7 +2,7 @@
   "name": "sprint1",
   "private": true,
   "version": "0.0.0",
-  "homepage": "github-page/",
+  "homepage": "sprint1-modulo5/",
   "type": "module",
   "scripts": {
     "dev": "vite",
